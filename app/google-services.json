@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "618648823639",
+    "firebase_url": "https://firetweet-5bbc6.firebaseio.com",
+    "project_id": "firetweet-5bbc6",
+    "storage_bucket": "firetweet-5bbc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618648823639:android:bb599b53a93df2e0",
+        "android_client_info": {
+          "package_name": "com.ingmicha.firetweet.firetweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618648823639-900jnddf11tf83m5g81lnerrr11lv6n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ingmicha.firetweet.firetweet",
+            "certificate_hash": "A7376A5BFF2D4D5AA84B04F930BD81DE42C6A08C"
+          }
+        },
+        {
+          "client_id": "618648823639-lihirtkil0ar5offot2j3jg9n1dd7ggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7APHlj6nFGC-vyG0T0sccVkukfB7as8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618648823639-lihirtkil0ar5offot2j3jg9n1dd7ggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

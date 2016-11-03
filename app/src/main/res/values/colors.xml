@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFF</color>
+    <color name="colorPrimaryDark">#BDBDBD</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFire">#FFCC01</color>
+    <color name="colorTweet">#1DA1F2</color>
+</resources>
